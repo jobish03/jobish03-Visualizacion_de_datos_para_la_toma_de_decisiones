@@ -21,3 +21,4 @@ xlrd==2.0.1
 openpyxl==3.0.7
 nbconvert==6.1.0
 pandoc==2.0a4
+pyppeteer==0.2.6
