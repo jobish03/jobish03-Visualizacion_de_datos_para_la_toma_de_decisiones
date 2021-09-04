@@ -22,5 +22,5 @@ openpyxl==3.0.7
 nbconvert==6.1.0
 pandoc==2.0a4
 pyppeteer==0.2.6
---allow-chromium-download
+nbconvert[webpdf]==6.1.0
 
